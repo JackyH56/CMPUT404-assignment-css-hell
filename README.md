@@ -26,7 +26,11 @@ Changes Made to Gutenburg HTML files
 =====================================
 
 Linked css file in all three html files
+
 Removed width from image style in "The Project Gutenberg eBook of The Wonderful Wizard of Oz, by L. Frank Baum.html" and made the image smaller
+
 Changed font in paragraphs to Garamond, serif
+
 Changed background colour for body to a light yellow
+
 Bolded header tags
