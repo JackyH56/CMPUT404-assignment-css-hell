@@ -34,3 +34,8 @@ Changed font in paragraphs to Garamond, serif
 Changed background colour for body to a light yellow
 
 Bolded header tags
+
+Sources used
+=============
+Used to put text on image
+https://www.w3schools.com/howto/howto_css_image_text.asp

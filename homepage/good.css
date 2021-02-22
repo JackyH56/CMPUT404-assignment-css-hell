@@ -1,0 +1,47 @@
+html {
+    background-image: linear-gradient( rgb(71, 94, 135),rgb(181, 197, 231));
+    min-height:100%;
+    background-size:cover;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+img {
+    width: 100%;
+}
+
+.container {
+    position: relative;
+    text-align: center;
+    height: auto;
+}
+
+.name {
+    position: absolute;
+    top: 30%;
+    left: 30%;
+    font-size: 40px;
+    color:rgb(222, 215, 196);
+}
+
+.left {
+    display: block;
+    max-width: 74%;
+    height: auto;
+    float: left
+}
+
+.right {
+    display:block;
+    max-width: 26%;
+    height: auto;
+    background-color: rgb(122, 145, 163);
+    float: right;
+}
+
+h {
+    font-weight: bold;
+    font-size: 28px;
+}
