@@ -28,13 +28,14 @@ img {
 
 .left {
     display: block;
-    max-width: 74%;
+    max-width: 70%;
     height: auto;
-    float: left
+    float: left;
 }
 
 .right {
-    display:block;
+    padding: 16px;
+    display: block;
     max-width: 26%;
     height: auto;
     background-color: rgb(122, 145, 163);
